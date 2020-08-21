@@ -6,7 +6,7 @@
   
   body {
     font-family: 'montserrat', sans-serif;
-    background-image: url('bg.jpg');
+    background-image: url('https://unsplash.it/g/600');
     background-size: cover;
     background-position: top center;
   }
@@ -31,7 +31,7 @@
     padding: 10px 15px;
     border: solid;
     outline: none;
-    background-color: rgba(196, 176, 176, 0.3);
+    background-color: rgba(94, 91, 91, 0.3);
     
     color: #313131;
     font-size: 20px;
@@ -66,10 +66,9 @@
   
   .current .temp {
     color: #FFF;
-    font-size: 102px;
+    font-size: 60px;
     font-weight: 900;
     margin: 30px 0px;
-    text-shadow: 2px 10px rgba(0, 0, 0, 0.6);
   }
   
   .current .temp span {
